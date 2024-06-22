@@ -12,4 +12,24 @@ ignore:
         reason: None Given
         expires: 2024-07-22T23:39:51.076Z
         created: 2024-06-22T23:39:51.079Z
+  SNYK-CC-K8S-11:
+    - '*':
+        reason: None Given
+        expires: 2024-07-22T23:48:28.612Z
+        created: 2024-06-22T23:48:28.616Z
+  SNYK-CC-K8S-4:
+    - '*':
+        reason: None Given
+        expires: 2024-07-22T23:48:43.062Z
+        created: 2024-06-22T23:48:43.066Z
+  SNYK-CC-K8S-42:
+    - '*':
+        reason: None Given
+        expires: 2024-07-22T23:48:50.819Z
+        created: 2024-06-22T23:48:50.826Z
+  SNYK-CC-K8S-5:
+    - '*':
+        reason: None Given
+        expires: 2024-07-22T23:48:57.074Z
+        created: 2024-06-22T23:48:57.080Z
 patch: {}
